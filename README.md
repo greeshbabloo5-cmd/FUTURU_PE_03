@@ -1,6 +1,6 @@
 # FUTURU_PE_02
 AI SEO Blog &amp; Content Cluster Generator
-Task 2: AI SEO Blog & Content Cluster Generator
+Task 3: AI SEO Blog & Content Cluster Generator
 Industry: Luxury Beauty & Wellness
 
 Business Name: Aura & Edge
